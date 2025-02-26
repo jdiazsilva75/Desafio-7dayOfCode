@@ -1,2 +1,3 @@
 # Desafio-7dayOfCode
-Desasio por 7 dia de javascript
+Desafio por 7 dia de javascript
+dia uno cumplido
